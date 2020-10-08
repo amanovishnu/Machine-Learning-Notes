@@ -1,0 +1,3 @@
+ChangeLog - 8/10/2020
+1. Logging Module Appended to Exisiting document -> Python Notes 08-10-2020_1.pdf
+2. Assertions, Object serialisation, Decorators, Generators Appended to Exisiting document -> Python Notes 08-10-2020_2.pdf
